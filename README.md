@@ -4,7 +4,7 @@ A simple data analytics project to see the relationship between rainfall ,temper
 
 # Datasets
 ```
--[RainFall Data](https://data.gov.sg/dataset/rainfall-monthly-number-of-rain-days)
--[Temperature Data]('https://www.climatestotravel.com/climate/singapore')
--[Dengue Cases]('https://data.gov.sg/dataset/weekly-infectious-disease-bulletin-cases')
+- [RainFall Data](https://data.gov.sg/dataset/rainfall-monthly-number-of-rain-days)
+- [Temperature Data](https://www.climatestotravel.com/climate/singapore)
+- [Dengue Cases](https://data.gov.sg/dataset/weekly-infectious-disease-bulletin-cases)
 ```
